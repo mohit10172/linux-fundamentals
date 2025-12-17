@@ -1,7 +1,6 @@
-Manual (man [input])
+# Manual (man [input])
 
-Struture of Manual:
-
+## Struture of Manual:
     1. User Commands
     2. System Calls
     3. C Library functions
